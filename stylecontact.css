@@ -1,0 +1,52 @@
+html { 
+  margin:0;
+  padding:0;
+  background: url(images/fondpa.jpg) no-repeat center fixed; 
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
+}
+nav{
+  font-size: 40px;
+  background: #CD853F;
+  font-family: 'Houston';
+  width: 590px ;
+  height: 99px ;
+  top: center;
+}
+.slide {
+  width:  60vw;
+  height: 70vh;
+  border:2px groove black;
+  background: #Ffff;
+      top: ;
+    left:;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face { /* Définition d'une nouvelle police nommée CAC Champagne */
+    font-family: 'Milkshake';
+    src: url('Milkshake.eot');
+    src: url('Milkshake.eot?#iefix') format('embedded-opentype'),
+         url('Milkshake.woff') format('woff'),
+         url('Milkshake.ttf') format('truetype'),
+         url('Milkshake-webfont.svg#Milkshake') format('svg');
+           }
+
+
+         @font-face { /* Définition d'une nouvelle police nommée Houston */
+    font-family: 'Houston';
+    src: url('Houston.otf');
